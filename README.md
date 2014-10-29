@@ -4,7 +4,7 @@ html-css-beginner
 - Aimed at total beginners
 - No experience neccesary 
 - Around one hour or light reading beforehand
-- [Installation of Sublime Text 2](http://www.sublimetext.com/2)
+- <a href="http://www.sublimetext.com/2" target="_blank">Installation of Sublime Text 2</a>
 
 #Learning Objectives
 - HTML Elements
