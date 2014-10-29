@@ -28,3 +28,4 @@ The HTML CSS beginner class is aimed at anyone interested in web development and
 #After the course
 - Beginners course in JavaScript
 - Beginners course in using HTML, CSS and JavaScript together
+- further readings: hosting your site on github, wireframing concepts
