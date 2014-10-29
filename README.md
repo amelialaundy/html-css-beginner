@@ -1,8 +1,8 @@
-html-css-beginner
+Beginners class in HTML CSS
 =================
+The HTML CSS beginner class is aimed at anyone interested in web development and will start with the very basics; how to set up a basic HTML file, structuring the elements on the page and adding styling to them. No prior experience is necessary although some light reading beforehand will be provided and installation of Sublime Text 2 (a text editor) onto your laptop will be required. I would highly recommend anyone with HTML/CSS knowledge who is interested in our courses to take part in a more in depth session at a later date.
+
 #Prerequisites
-- Aimed at total beginners
-- No experience neccesary 
 - Around one hour of light reading beforehand
 - <a href="http://www.sublimetext.com/2" target="_blank">Installation of Sublime Text 2</a>
 
