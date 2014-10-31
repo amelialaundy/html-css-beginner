@@ -1,0 +1,16 @@
+body {
+  font-family:courier;
+  background-color: #C5E4E9;
+}
+
+header {
+  text-align:center;
+}
+
+h2 {
+  color:blue
+}
+
+img {
+  border-radius: 10px;
+}
