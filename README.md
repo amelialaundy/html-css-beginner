@@ -1,16 +1,19 @@
-Step Three: adding inline styles
+Step Four: using CSS
 =================
 
-In this step we will add some styling to the HTML you have just created. Using the style attribute you can add colors(yes the American spelling has to be used or it won't work!), fonts, rounded image edges, background colors and much more! This is called inline styling, we'll get onto using Cascading Style Sheets (CSS) in the next step :)
+Ok so we've got some colours and styles happening on our about_me page, but it's a bit messy with these styles all over the place.
+
+In this step we will create a CSS file to store all of our styles in so that we don't have to litter them through our HMTL file.
 
 #Release One
-- Create a file called step_three.html
-- As before copy the HTML from [the example file here](https://github.com/amelialaundy/html-css-beginner/blob/step_3/html_example.html) into your step_three file
-- Check out what's going on, have a play around and open it in chrome to see changes you make
+- Look at the [example CSS file](https://github.com/amelialaundy/html-css-beginner/blob/step_4/example_css.css), the styles are now all stored in here
+- Now look at the [example_html file](https://github.com/amelialaundy/html-css-beginner/blob/step_4/html_example.html) and see how all the style attributes have been removed
+- In the head tag we now have a link tag, the href attribute tells the HTML where to find the CSS document, the rel attribute tells the HTML the relationship between itself and the document being linked and the type tells it the media type of the link
 
 #Release Two
-- Apply some of the styling you see in the example to your about_me file
-- With colours you can use the words red, blue, green etc or you can use more specific hexadecimal colours click [here](http://www.w3schools.com/tags/ref_colorpicker.asp) to have a look
-- If you want to add different fonts have a look [here](http://www.w3schools.com/cssref/css_websafe_fonts.asp) for other options, don't worry about the CSS stuff on that page for the moment, just use the names of the fonts you want and apply them to the tag in your HTML where you want that font
-- Applying something to the body tag will do that for everything on the page because everything sits inside the body
-- Take a look at your file in Chrome to see your handy work!
+- Create a file called styles.css
+- Add a link tag to your header in your about_me file, in the href attribute you will want to put 'styles.css'
+- Using the styles you added into your about_me with the style attribute, add them into your styles.css file
+- Once you think you have added them all, remove all the style attributes from you about_me file- a quick way to do this in sublime in to use cmd + f and type in the word style, this will let you delete all the style attributes
+- Open you about_me in Chrome to see if it has worked!
+- Now you should notice that for example instead of having to write style='some style name: style value' on every h2 tag, you can write it once in your css and it will apply it to all the h2 tags
