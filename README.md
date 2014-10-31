@@ -1,4 +1,4 @@
-Step Two
+Step Two: HTML attributes
 =================
 
 In step two will will look at:
