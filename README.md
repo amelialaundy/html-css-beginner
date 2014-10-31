@@ -11,4 +11,6 @@ In this step we will add some styling to the HTML you have just created. Using t
 #Release Two
 - Apply some of the styling you see in the example to your about_me file
 - With colours you can use the words red, blue, green etc or you can use more specific hexadecimal colours click [here](http://www.w3schools.com/tags/ref_colorpicker.asp) to have a look
+- If you want to add different fonts have a look [here](http://www.w3schools.com/cssref/css_websafe_fonts.asp) for other options, don't worry about the CSS stuff on that page for the moment, just use the names of the fonts you want and apply them to the tag in your HTML where you want that font
+- Applying something to the body tag will do that for everything on the page because everything sits inside the body
 - Take a look at your file in Chrome to see your handy work!
